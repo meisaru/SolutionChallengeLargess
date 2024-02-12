@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46246033375",
+    "project_id": "schallange-eead1",
+    "storage_bucket": "schallange-eead1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46246033375:android:e21d403c424967bce4766a",
+        "android_client_info": {
+          "package_name": "com.example.solutonchallenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwX4VK5wZAydOyeIvh6sl6LJUxn6L5QN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
